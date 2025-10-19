@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Корытов Тима\GravityBalls C#-9\bin\Debug\GravityBalls.exe.config
+C:\Users\user\Documents\Корытов Тима\GravityBalls C#-9\bin\Debug\GravityBalls.exe
+C:\Users\user\Documents\Корытов Тима\GravityBalls C#-9\bin\Debug\GravityBalls.pdb
+C:\Users\user\Documents\Корытов Тима\GravityBalls C#-9\obj\Debug\GravityBalls.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Корытов Тима\GravityBalls C#-9\obj\Debug\GravityBalls.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Корытов Тима\GravityBalls C#-9\obj\Debug\GravityBalls.exe
+C:\Users\user\Documents\Корытов Тима\GravityBalls C#-9\obj\Debug\GravityBalls.pdb
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\bin\Debug\GravityBalls.exe.config
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\bin\Debug\GravityBalls.exe
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\bin\Debug\GravityBalls.pdb
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\obj\Debug\GravityBalls.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\obj\Debug\GravityBalls.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\obj\Debug\GravityBalls.exe
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\obj\Debug\GravityBalls.pdb
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\obj\Debug\GravityBalls.BallsForm.resources
+C:\Users\user\Documents\Криницын Даниил суббота\GravityBalls C#-9 Корытов\obj\Debug\GravityBalls.csproj.GenerateResource.cache
